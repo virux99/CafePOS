@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanteenPOS", "CanteenPOS\CanteenPOS.csproj", "{4AFB871F-432B-4E62-B4F5-F7C92109038F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{70C940F2-724C-447D-8FA0-578709D3DFBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AFB871F-432B-4E62-B4F5-F7C92109038F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AFB871F-432B-4E62-B4F5-F7C92109038F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AFB871F-432B-4E62-B4F5-F7C92109038F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AFB871F-432B-4E62-B4F5-F7C92109038F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C940F2-724C-447D-8FA0-578709D3DFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C940F2-724C-447D-8FA0-578709D3DFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C940F2-724C-447D-8FA0-578709D3DFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C940F2-724C-447D-8FA0-578709D3DFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEA76F88-11C4-4ED1-B30C-2675BDE66131}
+	EndGlobalSection
+EndGlobal
